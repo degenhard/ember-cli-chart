@@ -46,7 +46,7 @@
     "loader.js": "^4.2.3"
   },
   "dependencies": {
-    "chart.js": "^2.6.0",
+    "chart.js": "^2.7.0",
     "ember-cli-babel": "^6.5.0",
     "fastboot-transform": "^0.1.2",
     "ember-cli-node-assets": "^0.2.2"
